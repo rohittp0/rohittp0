@@ -9,7 +9,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntusans&color=%**39FF14**&size=21&center=true&vCenter=true&width=395&height=56&lines=Malayali+coder+who+loves+to+laugh+;Crazy+about+CS%2C++tech+addict)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntusans&color=%**39FF14**&size=21&center=true&vCenter=true&width=395&height=56&lines=-%3E+Malayali+coder+who+loves+to+laugh+;Crazy+about+CS%2C++tech+addict)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
