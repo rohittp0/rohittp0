@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rohit </h1>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-19-blue" />
+<img src="https://img.shields.io/badge/Age-20-blue" />
   <img src="https://img.shields.io/badge/Focus-Reserch-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
   <img src="https://komarev.com/ghpvc/?username=rohittp0&color=brightgreen&style=flat-square" alt="views on github" />
@@ -9,7 +9,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntusans&color=%**39FF14**&size=21&center=true&vCenter=true&width=395&height=56&lines=-%3E+Malayali+coder+who+loves+to+laugh+;Crazy+about+CS%2C++tech+addict)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Just+thought+a+typing+animation+will+look+nice+here+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -30,8 +30,7 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/tprohit"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="  
-rohittp0.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a target="_blank" href="https://rohittp0.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
 
