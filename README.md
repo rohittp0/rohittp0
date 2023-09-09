@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently working on Research Projects
 - 🏢 I’m also working at Trebuchet as R&D.
-- 🌱 I've 4+ months of work experience working at TinkerHub foundation
+- 🌱 I'm a contract developer at NPOL
 - 👯 I’m looking to collaborate on FOSS projects.
-- 💬 Ask me about Computer Science or Backend Engineering
+- 💬 Ask me about Computer Science
 
 <p>Connect with me on
 <br>	
@@ -33,9 +33,15 @@
 <a target="_blank" href="https://rohittp0.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
+## 📚 Publications
 
+| | |
+|---|---|
+| **Multi Block Transformer for Malayalam Language Modeling** | 01-2023 |
+| **Protocol For Dynamic Load Distributed Low Latency AR & VR** | 02-2022 |
+| **Optimization Technique For Perfect Pairing** | 2023 |
 
-### 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
