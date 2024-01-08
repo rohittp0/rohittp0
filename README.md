@@ -38,8 +38,8 @@
 | | |
 |---|---|
 | **Multi Block Transformer for Malayalam Language Modeling** | 01-2023 |
-| **Protocol For Dynamic Load Distributed Low Latency AR & VR** | 02-2022 |
-| **Optimization Technique For Perfect Pairing** | 2023 |
+| **[Protocol For Dynamic Load Distributed Low Latency AR & VR](https://link.springer.com/chapter/10.1007/978-3-031-48879-5_10)** | 02-2022 |
+| **[Optimization Technique For Perfect Pairing](https://assets.researchsquare.com/files/rs-2539204/v1_covered.pdf?c=1678265988)** | 2023 |
 
 ## 🔥 Streak Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p align="center">
