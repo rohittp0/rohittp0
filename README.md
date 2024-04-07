@@ -37,7 +37,8 @@
 
 | | |
 |---|---|
-| **Multi Block Transformer for Malayalam Language Modeling** | 01-2023 |
+| **[Optimal Hardware Generation for Neural Network Acceleration](https://github.com/rohittp0/rohittp0/tree/main/papers/Optimal%20Hardware%20Generation%20for%20Neural%20Network%20Acceleration)** | 03-2024 |
+| **[Multi Block Transformer for Malayalam Language Modeling](https://icaise.cusat.ac.in/ICAISE2023_Web_version.pdf)** | 03-2023 |
 | **[Protocol For Dynamic Load Distributed Low Latency AR & VR](https://link.springer.com/chapter/10.1007/978-3-031-48879-5_10)** | 02-2022 |
 | **[Optimization Technique For Perfect Pairing](https://assets.researchsquare.com/files/rs-2539204/v1_covered.pdf?c=1678265988)** | 2023 |
 
